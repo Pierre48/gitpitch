@@ -12,7 +12,7 @@
 <br/>[stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
 ---
 ## System atoption 
-![Image](https://github.com/Pierre48/gitpitch/blob/master/images/assets/openhub-gitstatistics.png?raw=true)<br/>
+![Image](https://github.com/Pierre48/gitpitch/blob/master/assets/images/openhub-gitstatistics.png?raw=true)<br/>
 [OpenHub](https://www.openhub.net/repositories/compare)
 
 ---
