@@ -1,7 +1,8 @@
+# Git @ SIP ?
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 400px;" />
+---
 ## Git what ?
-<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 200px;" />
-
-> "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. It is primarily used for **source code management** in software development, but it can be used to keep track of changes in any set of files. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
+> "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
 <br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 > Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
@@ -21,14 +22,13 @@
 ---
 
 ## Git and ALM solutions 
-Application  Lifecycle managment :
+#### Application  Lifecycle managment :
 + GitHub
 + GitLab
 + Bitbucket
 + But also VSTS / TFS (Since TFS15) !
-
-For us :
-- Not usable with ePCTsoolbar
+#### For us :
+- Not usable with ePCToolbar
 - But ... Ready to production with our continuous integration
 ---
 ## Why Git ? Why now ?
