@@ -1,4 +1,4 @@
-# Git @ SIP ?
+# Git @ SIP 
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 400px;" />
 ---
 ## Git what ?
@@ -9,7 +9,7 @@
 <br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
 ## Git vs Svn
-![Image](https://i.stack.imgur.com/6SqPf.png)
+<img src="https://i.stack.imgur.com/6SqPf.png" alt="Drawing" style="width: 600px;" />
 <br/>[stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
 ---
 ## System atoption 
