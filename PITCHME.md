@@ -17,7 +17,7 @@
 
 ---
 ## Notable users
-> Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, XOrg, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...
+<span style="font-size:1em; color:gray">Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, XOrg, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...</span>
 ---
 ## Git and ALM solutions 
 #### Application  Lifecycle managment :
