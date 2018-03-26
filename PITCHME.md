@@ -1,6 +1,5 @@
-# Git what ?
-
-![Image](https://git-scm.com/images/logos/2color-lightbg@2x.png)
+## Git what ?
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 200px;" />
 
 > "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. It is primarily used for **source code management** in software development, but it can be used to keep track of changes in any set of files. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
 
@@ -9,26 +8,26 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
-# Git vs Svn
+## Git vs Svn
 ![Image](https://i.stack.imgur.com/6SqPf.png)
 
 [stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
 ---
-# Version control system atoption 
+## System atoption 
 ![Image](https://github.com/Pierre48/gitpitch/blob/master/images/openhub-gitstatistics.png?raw=true)
 [OpenHub](https://www.openhub.net/repositories/compare)
 
 ---
-# Notable users
-	Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, X.Org, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki,[83] Mono, ASP.NET MVC, ADO.NET Entity Framework, NuGet, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG
+## Notable users
+> Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, XOrg, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...
 ---
 
-# Git and TFS !
+## Git and TFS !
 Dire que cest possible dans tfs
 que ca marche avec notre IC
 ---
 
-# Pouquoi Git a SIP
+## Pouquoi Git a SIP
 Besoin de colobarotion
  composant commun
  Outillage Merge request etc
@@ -38,24 +37,24 @@ Standard du marche
  Ouverture sur d qutre plateforme (GitLab de DCSI)
 ---
 
-# Cible  et Strategie
+## Cible  et Strategie
 Tester sur un produit methode
 Library
  - Outil utilise par tout le monde
   - besoin de modification par les equipes (Partager des Extensions, BugFix, ....)
 
 ---
-# Fork et Merge request
+## Fork et Merge request
 Definition
 Strategie (valider par le resp du produit)
 Pas de setup sur les forks = obligation de merge pour aller en prod
 
 ---
-# Gestion des branches 
+## Gestion des branches 
 Faire le parallele avec nos branches
 
 ---
-# Conduite du changement
+## Conduite du changement
 Beta Tester
   => Ludo !
 
@@ -65,7 +64,7 @@ http://rogerdudler.github.io/git-guide/
 + Formation VS &  TFS
 
 ---
-# Demain
+## Demain
 Point ds 2 mois
  - succes ?
  - difficultes
@@ -77,7 +76,7 @@ Regarder comment on revient en arriere
 
 ---
 
-# Markdown
+## Markdown
 Strategie  DCSI
 Doc technique dans Git
 Lien du wiki aui pointe sur Git
@@ -92,10 +91,10 @@ Portabilite de la doc
 
 
 --- 
-# LibraryUI
+## LibraryUI
 
 --- 
-# Concept
+## Concept
 - Git 
 - Markdowm
 - GitFlow
@@ -103,12 +102,12 @@ Portabilite de la doc
 
 
 --- 
-# Qui
+## Qui
 iMat et mesure
 Thanks to us
 
 --- 
-# And now
+## And now
 On garde pas gitflow
 Methodologie
 CA devient un produit methode
@@ -117,7 +116,7 @@ CA devient un produit methode
 Michelin Design System ?
 --- 
 
-# Problemes
+## Problemes
 Build ?
 Documentation ?
 Sample ?
@@ -125,7 +124,7 @@ UT ?
 
 --- 
 
-# Quand
+## Quand
 Maintenant
 
 
