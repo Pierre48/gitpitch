@@ -2,19 +2,17 @@
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 200px;" />
 
 > "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. It is primarily used for **source code management** in software development, but it can be used to keep track of changes in any set of files. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
-
+<br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 
 > Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
-
-[Wikipedia](https://en.wikipedia.org/wiki/Git)
+<br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
 ## Git vs Svn
 ![Image](https://i.stack.imgur.com/6SqPf.png)
-
-[stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
+<br/>[stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
 ---
 ## System atoption 
-![Image](https://github.com/Pierre48/gitpitch/blob/master/images/openhub-gitstatistics.png?raw=true)
+![Image](https://github.com/Pierre48/gitpitch/blob/master/images/openhub-gitstatistics.png?raw=true)<br/>
 [OpenHub](https://www.openhub.net/repositories/compare)
 
 ---
@@ -22,12 +20,18 @@
 > Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, XOrg, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...
 ---
 
-## Git and TFS !
-Dire que cest possible dans tfs
-que ca marche avec notre IC
----
+## Git and ALM solutions 
+Application  Lifecycle managment :
++ GitHub
++ GitLab
++ Bitbucket
++ But also VSTS / TFS (Since TFS15) !
 
-## Pouquoi Git a SIP
+For us :
+- Not usable with ePCTsoolbar
+- But ... Ready to production with our continuous integration
+---
+## Why Git ? Why now ?
 Besoin de colobarotion
  composant commun
  Outillage Merge request etc
