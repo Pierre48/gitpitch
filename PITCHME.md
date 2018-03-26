@@ -2,16 +2,21 @@
 
 ![Image](https://git-scm.com/images/logos/2color-lightbg@2x.png)
 
-"Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. It is primarily used for **source code management** in software development, but it can be used to keep track of changes in any set of files. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
+> "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. It is primarily used for **source code management** in software development, but it can be used to keep track of changes in any set of files. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
 
 
-Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
+> Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
 
 [Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
-# Version control system atoption in 2017
+# Git vs Svn
 ![Image](https://i.stack.imgur.com/6SqPf.png)
 
+[stackexchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
+---
+# Version control system atoption 
+![Image](https://github.com/Pierre48/gitpitch/blob/master/images/openhub-gitstatistics.png?raw=true)
+[OpenHub](https://www.openhub.net/repositories/compare)
 
 ---
 # Notable users
