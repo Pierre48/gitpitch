@@ -69,18 +69,14 @@ http://rogerdudler.github.io/git-guide/
 + Git is not the solution --> Rollback to TFS SC
 + Git everywhere --> Git for Frelon, Neon, for other teams
 ---
-## Markdown
-Strategie  DCSI
-Doc technique dans Git
-Lien du wiki aui pointe sur Git
-Les autres docs (dep, support...) reste dans le wiki
+## Git and documentation
+Documetation in Git is based on markdown language. With Git :
++ Writing documetation is easy and fast
++ Documentation are Stored with the source code
++ Documentation are versionned with the source code
++ Documentation can be easily moved to another source control
 
-Avantages
-Ecrire la doc plus vite
-La doc et au meme endroit que le code
-La doc est versonnee avec le code
-Standard du marche
-Portabilite de la doc
+Our proposal is to use Git for development documentation. Other documentation stays in the Wiki (Same strategy than DCSI)
 ## Todo 
 + Migration TFS to Git
 + Migration Git To TFS
