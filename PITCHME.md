@@ -20,18 +20,21 @@
 ## Notable users
 > Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5,[82] PostgreSQL, XOrg, Cairo, Qt Development Frameworks, Samba, OpenEmbedded, Ruby, Ruby on Rails, Wine, Fluxbox, Openbox, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, MediaWiki, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...
 ---
-
 ## Git and ALM solutions 
 #### Application  Lifecycle managment :
 + GitHub
 + GitLab
 + Bitbucket
 + But also VSTS / TFS (Since TFS15) !
-#### For us :
-- Not usable with ePCToolbar
-- But ... Ready to production with our continuous integration
+---
+## What about SIP ??? :
++ Git not usable with ePCToolbar
++ But ... Git is ready to production with our continuous integration
 ---
 ## Why Git ? Why now ?
++ More and more collaboration subjects (Library, LibraryUI,...)
++ Git, a standard tool,
+
 Besoin de colobarotion
  composant commun
  Outillage Merge request etc
@@ -40,23 +43,19 @@ Standard du marche
  Outil connu et maitrise par les nouveaux
  Ouverture sur d qutre plateforme (GitLab de DCSI)
 ---
-
 ## Cible  et Strategie
 Tester sur un produit methode
 Library
  - Outil utilise par tout le monde
   - besoin de modification par les equipes (Partager des Extensions, BugFix, ....)
-
 ---
 ## Fork et Merge request
 Definition
 Strategie (valider par le resp du produit)
 Pas de setup sur les forks = obligation de merge pour aller en prod
-
 ---
 ## Gestion des branches 
 Faire le parallele avec nos branches
-
 ---
 ## Conduite du changement
 Beta Tester
@@ -68,18 +67,15 @@ http://rogerdudler.github.io/git-guide/
 + Formation VS &  TFS
 
 ---
-## Demain
-Point ds 2 mois
- - succes ?
- - difficultes
+## Tomorow
+##### Check-up in 2 months
++ Success
++ Difficulties 
 
-Migration d autre produits ?
-
-Si ca se passe mal
-Regarder comment on revient en arriere 
-
+##### To decide if 
++ Git is not the solution --> Rollback to TFS SC
++ Git everywhere --> Git for Frelon, Neon, for other teams
 ---
-
 ## Markdown
 Strategie  DCSI
 Doc technique dans Git
@@ -92,19 +88,17 @@ La doc et au meme endroit que le code
 La doc est versonnee avec le code
 Standard du marche
 Portabilite de la doc
-
-
+## Todo 
++ Migration TFS to Git
++ Migration Git To TFS
 --- 
-## LibraryUI
-
+# LibraryUI
 --- 
 ## Concept
 - Git 
 - Markdowm
 - GitFlow
 - Nuget pour les composants graphique
-
-
 --- 
 ## Qui
 iMat et mesure
