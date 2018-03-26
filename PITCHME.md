@@ -2,10 +2,9 @@
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 400px;" />
 ---
 ## Git what ?
-> "Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
-<br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
+<span style="font-size:1em; color:gray">"Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.</span>
 
-> Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."
+<span style="font-size:1em; color:gray">Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."</span>
 <br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
 ## Git vs Svn
