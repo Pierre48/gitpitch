@@ -2,9 +2,9 @@
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 400px;" />
 ---
 ## Git what ?
-<span style="font-size:1em; color:gray">"Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.</span>
+<span style="text-align: justify;font-size:1em; color:gray">"Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.</span>
 
-<span style="font-size:1em; color:gray">Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."</span>
+<span style="text-align: justify;font-size:1em; color:gray">Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."</span>
 <br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
 ## Git vs Svn
@@ -70,9 +70,10 @@ http://rogerdudler.github.io/git-guide/
 + Git everywhere --> Git for Frelon, Neon, for other teams
 ---
 ## Git and documentation
-Documetation in Git is based on markdown language. With Git :
+Documentation in Git is based on markdown language. 
+</br>With Git :
 + Writing documetation is easy and fast
-+ Documentation are Stored with the source code
++ Documentation are stored with the source code
 + Documentation are versionned with the source code
 + Documentation can be easily moved to another source control
 
