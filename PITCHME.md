@@ -63,11 +63,42 @@ Regarder comment on revient en arriere
 Strategie  DCSI
 Doc technique dans Git
 Lien du wiki aui pointe sur Git
-Le autres docs (dep, support...) reste dans le wiki
+Les autres docs (dep, support...) reste dans le wiki
 
-
-
+Avantages
+Ecrire la doc plus vite
+La doc et au meme endroit que le code
+La doc est versonnee avec le code
+Standard du marche
+Portabilite de la doc
 
 
 --- 
 # LibraryUI
+
+--- 
+# Concept
+- Git 
+- Markdowm
+- GitFlow
+- Nuget pour les composants graphique
+
+
+--- 
+# Qui
+iMat et mesure
+Thanks to us
+
+--- 
+# And now
+On garde pas gitflow
+Methodologie
+CA devient un produit methode
+   - Validation des merges requests pour la partie 
+   
+Michelin Design System ?
+
+--- 
+
+
+   
