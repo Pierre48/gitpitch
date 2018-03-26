@@ -14,7 +14,6 @@
 ## System atoption 
 ![Image](https://github.com/Pierre48/gitpitch/blob/master/assets/images/openhub-gitstatistics.png?raw=true)<br/>
 [OpenHub](https://www.openhub.net/repositories/compare)
-
 ---
 ## Notable users
 <span style="font-size:1em; color:gray">Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5, PostgreSQL, Qt Development Frameworks, Samba, Ruby, Ruby on Rails, Wine, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...</span>
