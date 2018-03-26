@@ -26,27 +26,21 @@
 + Bitbucket
 + But also VSTS / TFS (Since TFS15) !
 ---
-## What about SIP ??? :
-+ Git not usable with ePCToolbar
-+ But ... Git is ready to production with our continuous integration
+## What about SIP 
++ Git is not usable with ePCToolbar
++ But ... Git is ready to production with our continuous integration !
 ---
 ## Why Git ? Why now ?
 + More and more collaboration subjects (Library, LibraryUI,...)
-+ Git, a standard tool,
-
-Besoin de colobarotion
- composant commun
- Outillage Merge request etc
-
-Standard du marche
- Outil connu et maitrise par les nouveaux
- Ouverture sur d qutre plateforme (GitLab de DCSI)
++ Git, the standard tool for source control (Well known by students, developers)
++ Already used by DCSI service (GitLab)
++ Simplest than Tfs SC
 ---
-## Cible  et Strategie
-Tester sur un produit methode
-Library
- - Outil utilise par tout le monde
-  - besoin de modification par les equipes (Partager des Extensions, BugFix, ....)
+## What do we want to do
+Test Git on method's product : Library 
++ Used by every project
++ Pending bugfix that could be directly done by team members
++ Enhencements could be shared in Library (Extentions, New features ...)
 ---
 ## Fork et Merge request
 Definition
