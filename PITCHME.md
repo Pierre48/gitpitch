@@ -2,9 +2,9 @@
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Drawing" style="width: 400px;" />
 ---
 ## Git what ?
-<span style="text-align: justify;font-size:1em; color:gray">"Git is a version control system for **tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.</span>
+<span style="text-align: justify;font-size:1em; color:gray">"Git is a **version control system for tracking changes** in computer files and coordinating work on those files among multiple people. As a **distributed revision control system** it is aimed at speed, data integrity, and support for distributed, non-linear workflows.</span>
 
-<span style="text-align: justify;font-size:1em; color:gray">Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."</span>
+<span style="text-align: justify;font-size:1em; color:gray">Git was created by **Linus Torvalds** in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development."</span>
 <br/>[Wikipedia](https://en.wikipedia.org/wiki/Git)
 ---
 ## Git vs Svn
@@ -19,11 +19,19 @@
 <span style="font-size:1em; color:gray">Linux kernel, Android, Bugzilla, DragonFly BSD, GNOME, GNU Emacs, GRUB2, KDE, MySQL, Perl 5, PostgreSQL, Qt Development Frameworks, Samba, Ruby, Ruby on Rails, Wine, Compiz Fusion, XCB, ELinks, XMMS2, e2fsprogs, GNU Core Utilities, DokuWiki, Drupal, LibreOffice, **<u>Mono, ASPNET MVC, ADONET Entity Framework, NuGet</u>**, jQuery and many of its plugins, OpenCV, Wireshark, Django, many companies like Ericsson, Microsoft, Huawei, Apple, Amazon, LG ...</span>
 ---
 ## Git and ALM solutions 
-#### Application  Lifecycle managment :
+#### **A**pplication  **L**ifecycle **M**anagment :
 + GitHub
 + GitLab
 + Bitbucket
 + But also VSTS / TFS (Since TFS15) !
+---
+## Git @ Michelin
+GitLab is the ALM tools for DCSI since 2017 :
++ Source code
++ Documentation
++ Continuous integration
++ Git Pages 
++ ...
 ---
 ## What about SIP 
 + Git is not usable with ePCToolbar
