@@ -23,17 +23,17 @@
 + GitHub
 + GitLab
 + Bitbucket
-+ But also VSTS / TFS (Since TFS15) !
++ But also VSTS / TFS (Since TFS15) ! 
 ---
-## Git @ Michelin
-GitLab is the ALM tools for DCSI since 2017 :
+## Git For us 
+GitLab is the ALM tools since 2017 :
 + Source code
 + Documentation
 + Continuous integration
 + Git Pages 
 + ...
 ---
-## What about SIP 
+## What about our team 
 + Git is not usable with ePCToolbar
 + But ... Git is ready to production with our continuous integration !
 ---
