@@ -50,8 +50,7 @@ Test Git on method's product : Library
 + Enhencements could be shared in Library (Extentions, New features ...)
 ---
 ## Branch ?
-![Image](https://github.com/Pierre48/gitpitch/blob/master/assets/images/branches.bmp?raw=true)<br/>
-[OpenHub](https://www.openhub.net/repositories/compare)
+<img src="https://github.com/Pierre48/gitpitch/blob/master/assets/images/branches.bmp?raw=true" alt="Drawing" style="width: 300px; height: 500;" />
 ---
 ## Fork & Merge request
 Let's have a short demo ...
