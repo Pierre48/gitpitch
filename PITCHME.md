@@ -49,13 +49,12 @@ Test Git on method's product : Library
 + Pending bugfix that could be directly done by team members
 + Enhencements could be shared in Library (Extentions, New features ...)
 ---
-## Fork et Merge request
-Definition
-Strategie (valider par le resp du produit)
-Pas de setup sur les forks = obligation de merge pour aller en prod
+## Branch ?
+![Image](https://github.com/Pierre48/gitpitch/blob/master/assets/images/branches.bmp?raw=true)<br/>
+[OpenHub](https://www.openhub.net/repositories/compare)
 ---
-## Gestion des branches 
-Faire le parallele avec nos branches
+## Fork & Merge request
+Let's have a short demo ...
 ---
 ## Conduite du changement
 Beta Tester
